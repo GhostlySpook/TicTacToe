@@ -1,4 +1,4 @@
 # TicTacToe
-A Tic Tac Toe game in C++. The idea is to keep improving it.
+This is a Tic Tac Toe game implemented in C++. The goal is to keep improving it.
 
-1/11/2023: The entire game is on the main. The Windows Console is the current GUI. Comments are on Spanish.
+1/11/2023: The entire game is located in the main function. The Windows Console serves as the current GUI. Comments are written on Spanish.
